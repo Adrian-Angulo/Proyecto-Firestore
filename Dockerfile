@@ -15,7 +15,7 @@ COPY utils.js/usr/share/nginx/html/
 
 
 # Variables de entorno
-ENV TRIVIA_GAME_NAME "Agenda"
+ENV TRIVIA_GAME_NAME "Trivia Docker"
 ENV PORT 80
 
 # Configurar el nombre del juego en el título de la página HTML
