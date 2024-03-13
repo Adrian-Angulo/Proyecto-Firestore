@@ -10,8 +10,8 @@ COPY firestore.js /usr/share/nginx/html/
 COPY import.js /usr/share/nginx/html/
 COPY main.css /usr/share/nginx/html/
 COPY README.md /usr/share/nginx/html/
-COPY utils.js/usr/share/nginx/html/
-COPY Dockerfile/usr/share/nginx/html/
+COPY utils.js /usr/share/nginx/html/
+COPY Dockerfile /usr/share/nginx/html/
 
 
 
